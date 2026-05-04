@@ -1,6 +1,4 @@
-***AinoMekko***
-
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ffc6eb85-bbc4-4771-9ec9-0419d7b1c757" />
+## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ffc6eb85-bbc4-4771-9ec9-0419d7b1c757" />  AinoMekko
 
 ****AinoMekko**** is a fictional Nordic fashion brand operating in luxury, premium and standard apparel market. The company sells dresses andshoes through several sales channels and operates internationally.
 
